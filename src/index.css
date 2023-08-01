@@ -31,11 +31,15 @@ h1{
 }
 
 input{
-  border: none;
-  outline: none;
-  width: 400px;
-  padding:0.5rem;
-  border-bottom: 1px solid #000;
+background: mintcream;
+    border: none;
+    color: black;
+    font-weight: bolder;
+    font-size: unset;
+    border-bottom: 1px solid #000;
+    outline: none;
+    padding: 0.5rem;
+    width: 400px;
 }
 
 .add{
